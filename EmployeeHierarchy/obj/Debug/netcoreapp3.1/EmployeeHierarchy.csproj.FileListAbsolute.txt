@@ -1,0 +1,9 @@
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\netcoreapp3.1\EmployeeHierarchy.deps.json
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\netcoreapp3.1\EmployeeHierarchy.dll
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\netcoreapp3.1\EmployeeHierarchy.pdb
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.AssemblyInfoInputs.cache
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.AssemblyInfo.cs
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.dll
+C:\Learning\Exercise\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\netcoreapp3.1\EmployeeHierarchy.pdb
